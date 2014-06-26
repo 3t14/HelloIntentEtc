@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="C:\Users\ISC\AndroidStudioProjects\MyApplication" />
+            <option value="C:\Users\ISC\AndroidStudioProjects\MyApplication\HelloIntent" />
+            <option value="C:\Users\ISC\AndroidStudioProjects\MyApplication\app" />
+            <option value="C:\Users\ISC\AndroidStudioProjects\MyApplication\app2" />
+            <option value="C:\Users\ISC\AndroidStudioProjects\MyApplication\app3" />
+            <option value="C:\Users\ISC\AndroidStudioProjects\MyApplication\app4" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
+
